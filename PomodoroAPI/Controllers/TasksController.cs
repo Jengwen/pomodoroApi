@@ -74,6 +74,8 @@ namespace PomodoroAPI.Controllers
 
         // POST: api/Tasks
         [ResponseType(typeof(Task))]
+        [HttpPost]
+        [Route("api/Tasks/PostTask")]
         public IHttpActionResult PostTask(Task task)
         {
             if (!ModelState.IsValid)

@@ -136,3 +136,4 @@ C:\Users\Alex's PC\workspace\pomodoroAPI\PomodoroAPI\PomodoroAPI\obj\Debug\Pomod
 C:\Users\Alex's PC\workspace\pomodoroAPI\PomodoroAPI\PomodoroAPI\bin\System.Web.Cors.dll
 C:\Users\Alex's PC\workspace\pomodoroAPI\PomodoroAPI\PomodoroAPI\bin\System.Web.Http.Cors.dll
 C:\Users\Alex's PC\workspace\pomodoroAPI\PomodoroAPI\PomodoroAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Alex's PC\workspace\pomodoroAPI\PomodoroAPI\PomodoroAPI\obj\Debug\PomodoroAPI.csprojAssemblyReference.cache
